@@ -52,4 +52,7 @@ PowerGuard Cloud is more than a TTP scanner; it is a versatile operative tool th
 |PowerGuard\_ACLEnforcement.ps1|Hardens local folders to prevent unauthorized log tampering.|
 
 
+**⚖️ Legal Disclaimer**
+***Released "As-Is"***
 
+PowerGuard Cloud is released as open-source software for the cybersecurity community. The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
