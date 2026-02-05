@@ -1,0 +1,10 @@
+sc.exe
+schtasks
+System.Runtime.InteropServices
+System.Reflection.AssemblyName
+Net.Sockets
+System.Security.Cryptography
+kernel32.dll
+user32.dll
+-nop
+ExecutionPolicy Bypass
