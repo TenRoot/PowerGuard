@@ -1,4 +1,5 @@
-**🛡️ PowerGuard Cloud: The Guard of Guards**
+*🛡️ PowerGuard Cloud: The Guard of Guards*
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c6c1ed01-41bc-4ae6-9839-bf5d109872f1" />
 
 **PowerGuard Cloud** is an open-source, "invisible" security monitoring solution designed for Entra ID-joined environments. It fills a critical detection gap by providing immutable, cloud-based analysis of PowerShell activity-independent of local EDR agents.
 
