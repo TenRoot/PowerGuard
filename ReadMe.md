@@ -28,7 +28,7 @@ PowerGuard Cloud is more than a TTP scanner; it is a versatile operative tool th
 * **Endpoint Activity Monitoring:** Gain granular visibility into every command executed on user endpoints across the organization.
 * **Anomaly Detection:** Identify suspicious script execution patterns that deviate from standard administrative or user behavior.
 * **Custom Keyword Tracking:** Easily adapt the tool to monitor for organization-specific sensitive keywords, restricted project names, or internal file paths to prevent data exfiltration.
-* **Signature-Based Alerting:** Instantly detect 180+ known malicious TTPs, including Mimikatz, Rubeus, and BloodHound.
+* **Signature-Based Alerting:** Instantly detect 180+ known potentially malicious TTPs, including Mimikatz, Rubeus, BloodHound etc.
 
 
 **🚀 Core Features**
