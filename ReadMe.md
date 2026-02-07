@@ -7,7 +7,7 @@
 
 **🏛️ About the Project**
 
-**PowerGuard Cloud** was developed by [**Yossi Sassi**](https://www.linkedin.com/in/yossisassi "Yossi Sassi-Linkedin") and [**Adi Mahluf**](https://www.linkedin.com/in/adi-mahluf "Adi Mahluf-Linkedin") as an operative security solution born from real-world incident response and threat hunting requirements at [**Tenroot Cyber Security**](https://www.linkedin.com/company/tenroot "Tenroot Cyber Security").
+**PowerGuard Cloud** was developed by [**Yossi Sassi**](https://www.github.com/yossisassi "Yossi Sassi-Github") and [**Adi Mahluf**](https://www.linkedin.com/in/adi-mahluf "Adi Mahluf-Linkedin") as an operative security solution born from real-world incident response and threat hunting requirements at [**Tenroot Cyber Security**](https://www.linkedin.com/company/tenroot "Tenroot Cyber Security").
 
 
 **🛡️ The Philosophy: "Guard of Guards"**
